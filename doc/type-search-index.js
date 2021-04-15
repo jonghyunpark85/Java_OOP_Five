@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"contracts","l":"LinkedListADT"},{"p":"<Unnamed>","l":"LinkedListPassFailTests"},{"p":"<Unnamed>","l":"LinkedListPassTests"},{"p":"problemdomain","l":"Node"},{"p":"<Unnamed>","l":"SerializationPassTest"},{"p":"managers","l":"SLL"},{"p":"problemdomain","l":"User"}]
